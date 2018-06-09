@@ -1,2 +1,4 @@
 fixing bug
 fixing bug
+bug fixed
+
